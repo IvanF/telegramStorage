@@ -1,6 +1,5 @@
 <?php
 
-include('net.php'); //Подключаем библиотеку
 include('vendor/api/autoload.php'); //Подключаем библиотеку
 use Telegram\Bot\Api; 
 
